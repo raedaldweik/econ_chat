@@ -1,0 +1,47 @@
+Hotel_Name,Hotel_Group,Class,Total_Rooms,Hotel_ID
+Navarro PLC Hotel,Luxury,5 star,206,DXBH-5S-001
+Burj Al Arab Lake Alexanderchester,Luxury,5 star,388,DXBH-5S-002
+Long Inc Hotel,Luxury,5 star,339,DXBH-5S-003
+Jumeirah Mendozaport,Luxury,5 star,207,DXBH-5S-004
+Four Seasons Bradystad,Luxury,5 star,354,DXBH-5S-005
+Ritz-Carlton East Michaelstad,Luxury,5 star,366,DXBH-5S-006
+Four Seasons Nicholschester,Luxury,5 star,271,DXBH-5S-007
+Patterson-Juarez Hotel,Luxury,5 star,240,DXBH-5S-008
+Burj Al Arab Millerton,Luxury,5 star,255,DXBH-5S-009
+One&Only Clarkchester,Luxury,5 star,224,DXBH-5S-010
+"Grimes, Stone and Brown Hotel",Luxury,5 star,354,DXBH-5S-011
+"Prince, Combs and Snyder Hotel",Luxury,5 star,386,DXBH-5S-012
+Hyatt Port Laura,Premium,4 star,170,DXBH-4S-013
+"King, Fuller and Ochoa Hotel",Premium,4 star,242,DXBH-4S-014
+Martinez Group Hotel,Premium,4 star,161,DXBH-4S-015
+"Munoz, Rodriguez and Lewis Hotel",Premium,4 star,170,DXBH-4S-016
+"Hall, Chavez and Flowers Hotel",Premium,4 star,247,DXBH-4S-017
+Crowne Plaza Lake Pamela,Premium,4 star,243,DXBH-4S-018
+Millennium North Cassie,Premium,4 star,218,DXBH-4S-019
+Villanueva-Graham Hotel,Premium,4 star,193,DXBH-4S-020
+Hyatt Jonview,Premium,4 star,219,DXBH-4S-021
+"Sanders, Thomas and Norris Hotel",Premium,4 star,164,DXBH-4S-022
+"Hill, Flores and Hines Hotel",Premium,4 star,230,DXBH-4S-023
+Millennium West William,Premium,4 star,295,DXBH-4S-024
+Hyatt South Michelleville,Premium,4 star,251,DXBH-4S-025
+Millennium Brookstown,Premium,4 star,213,DXBH-4S-026
+Page Inc Hotel,Premium,4 star,259,DXBH-4S-027
+Millennium North Danielberg,Premium,4 star,280,DXBH-4S-028
+Rotana Maysside,Premium,4 star,178,DXBH-4S-029
+Lee PLC Hotel,Midscale,3 star,187,DXBH-3S-030
+Best Western Maryburgh,Midscale,3 star,148,DXBH-3S-031
+Ramada Stephaniehaven,Midscale,3 star,101,DXBH-3S-032
+Anderson PLC Hotel,Midscale,3 star,168,DXBH-3S-033
+"Harris, Sullivan and Johnson Hotel",Midscale,3 star,143,DXBH-3S-034
+Novotel South Jenniferland,Midscale,3 star,158,DXBH-3S-035
+Mckee-Chavez Hotel,Midscale,3 star,192,DXBH-3S-036
+Boone LLC Hotel,Midscale,3 star,197,DXBH-3S-037
+Ibis Port Jacqueline,Midscale,3 star,180,DXBH-3S-038
+Wise Ltd Hotel,Economy,1-2 star,114,DXBH-1-2-039
+Citymax Lake Albertville,Economy,1-2 star,119,DXBH-1-2-040
+Ibis Budget Shellyton,Economy,1-2 star,52,DXBH-1-2-041
+"Phillips, Miranda and Flores Hotel",Economy,1-2 star,89,DXBH-1-2-042
+Holiday Inn Express Chrismouth,Economy,1-2 star,60,DXBH-1-2-043
+"Reynolds, Taylor and Hurley Hotel",Economy,1-2 star,58,DXBH-1-2-044
+Ibis Budget Billmouth,Economy,1-2 star,120,DXBH-1-2-045
+Holiday Inn Express Geoffreyfurt,Economy,1-2 star,104,DXBH-1-2-046
