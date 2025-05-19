@@ -135,7 +135,7 @@ data_dictionary = """
 
 # 5) Streamlit UI using chat primitives
 st.title("Digital Assistant")
-st.write("Ask me anything about your media, hotels, license, class summary, or real estate data!")
+st.write("Ask me anything!")
 
 # initialize history if not present
 if "chat_history" not in st.session_state:
